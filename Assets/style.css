@@ -29,4 +29,9 @@ footer {
     min-height: 20vh;
     color: whitesmoke;
 }
+.card{
+    box-shadow: 10px 10px 14px #ababab,
+        -10px -10px 14px #ffffff;
+        width: 95%;
+}
 
